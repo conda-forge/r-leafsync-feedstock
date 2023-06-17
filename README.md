@@ -1,11 +1,11 @@
-About r-leafsync
-================
+About r-leafsync-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-leafsync-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/r-spatial/leafsync
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-leafsync-feedstock/blob/main/LICENSE.txt)
 
 Summary: Create small multiples of several leaflet web maps with (optional)  synchronised panning and zooming control. When syncing is enabled all maps  respond to mouse actions on one map. This allows side-by-side comparisons of different attributes of the same geometries. Syncing can be adjusted so that any combination of maps can be synchronised.
 
